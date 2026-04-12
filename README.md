@@ -80,8 +80,8 @@ Upload an Excel packing list → get instant container recommendations, a 3D loa
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/freight-optimizer.git
-cd freight-optimizer
+git clone https://github.com/datawithdon/Cargo_Space_Optimizer.git
+   cd Cargo_Space_Optimizer
 ```
 
 ### 2. Install backend dependencies
