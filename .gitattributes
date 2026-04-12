@@ -1,0 +1,25 @@
+# Normalize line endings for cross-platform compatibility
+* text=auto
+
+# Force LF for source files
+*.py    text eol=lf
+*.ts    text eol=lf
+*.tsx   text eol=lf
+*.js    text eol=lf
+*.json  text eol=lf
+*.md    text eol=lf
+*.txt   text eol=lf
+*.html  text eol=lf
+*.css   text eol=lf
+*.yaml  text eol=lf
+*.yml   text eol=lf
+
+# Windows scripts keep CRLF
+*.bat   text eol=crlf
+
+# Binary files — no line ending conversion
+*.xlsx  binary
+*.pdf   binary
+*.png   binary
+*.jpg   binary
+*.ico   binary
